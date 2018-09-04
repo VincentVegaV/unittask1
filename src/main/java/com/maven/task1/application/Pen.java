@@ -1,3 +1,5 @@
+package com.maven.task1.application;
+
 public class Pen {
 	// сколько чернила в ручке
 	private int inkContainerValue = 1000;
